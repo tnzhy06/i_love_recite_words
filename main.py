@@ -3,7 +3,7 @@ from openai import OpenAI
 import json
 
 def get_answer(question, options):
-    client = OpenAI(api_key="sk-6771a650d7234599811819e7ecfc7387", base_url="https://api.deepseek.com")
+    client = OpenAI(api_key="<DeepSeek API Key>", base_url="https://api.deepseek.com")
     con = f"Question:{question}\nOptions:{options}"
     print(con)
     response = client.chat.completions.create(
