@@ -7,7 +7,7 @@ def get_answer(question, options):
     con = f"Question:{question}\nOptions:{options}"
     print(con)
     response = client.chat.completions.create(
-        model="gpt-4o-mini",
+        model="deepseek-chat",
         messages=[
             {
                 "role": "system",
