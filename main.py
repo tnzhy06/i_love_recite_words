@@ -7,7 +7,7 @@ def get_answer(question, options):
     con = f"Question:{question}\nOptions:{options}"
     print(con)
     response = client.chat.completions.create(
-        model="deepseek-chat",
+        model="gpt-4o-mini",
         messages=[
             {
                 "role": "system",
@@ -51,7 +51,9 @@ def main():
         )
         page = context.new_page()
         page.goto("https://skl.hduhelp.com/#/english/list")
-        page.wait_for_selector('.van-col.van-col--17')
+
+        print("已开启窗口，请登录，并于5分钟内开始考试，否则窗口将自动关闭。")
+        page.wait_for_selector('.van-col.van-col--17',timeout=300000)
 
         # 存储所有题目信息
         questions = []
@@ -86,7 +88,7 @@ def main():
         save_to_json(questions)
 
         # 等待 8 分钟用于提交考卷
-        print("8分钟后窗口将关闭。请及时提交试卷")
+        print("8分钟后窗口将自动关闭。请及时提交试卷")
         page.wait_for_timeout(480000)
         browser.close()
 
