@@ -2,12 +2,12 @@
 @TnZHY
 这是一个用于HDU我爱记单词的答题脚本,此脚本仅供学习交流使用
 """
-
 from playwright.sync_api import sync_playwright
 from openai import OpenAI
 import json
 import random
 
+# <API Key>填入自己的的api
 client = OpenAI(api_key="<API Key>", base_url="https://api.hunyuan.cloud.tencent.com/v1")
 
 def get_answer(question, options):
@@ -100,7 +100,8 @@ def main():
                 correct_answer = random.choice(["-A-", "-B-", "-C-", "-D-"])
 
             select(page, correct_answer)
-            # 等待一段时间以模拟用户操作
+
+            # 等待一段时间以确保网页完全加载
             page.wait_for_timeout(500)
 
         save_to_json(questions)
