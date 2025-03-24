@@ -1,6 +1,7 @@
 """
 @TnZHY
 这是一个用于HDU我爱记单词的答题脚本,此脚本仅供学习交流使用
+项目地址 https://github.com/tnzhy06/i_love_recite_words
 """
 from playwright.sync_api import sync_playwright
 from openai import OpenAI

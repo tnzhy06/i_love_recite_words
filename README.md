@@ -1,4 +1,4 @@
-# 我爱记单词 Ver2.0
+# 我爱记单词 Ver2.1
 
 ## 声明
 **此脚本仅为个人学习编程使用，无意实现作弊目的！**
@@ -7,13 +7,12 @@
 ---
 
 ## 项目介绍
-本项目基于 Playwright和OpenAI SDK，实现题目爬取和作答和浏览器的自动控制。
+本项目基于 Playwright和OpenAI SDK，实现浏览器的自动控制，题目爬取和作答。
 
 ---
 
 ## 安装依赖
-请确保安装以下依赖库：
-
+请确保安装以下依赖库， 在终端分别执行以下命令即可安装。
 ```bash
 pip install openai
 pip install playwright
@@ -24,8 +23,14 @@ playwright install
 ---
 
 ## 使用方法
-1. 使用支持OpenAI SDK的ai平台注册一个账号，我使用的是腾讯混元https://console.cloud.tencent.com/hunyuan/，获取 api_key 并将代码中第十行的 \<API Key\> 替换为你的 Key。
-2. 运行脚本，根据提示输入账户密码登录“我爱记单词”。若未跳转到登录页面，请检查是否开启了梯子或修改了 DNS。
+1. 使用支持OpenAI SDK的ai平台，我使用的是腾讯混元 https://console.cloud.tencent.com/hunyuan/ 。注册一个账号，选择【使用OpenAI SDK方式接入】，创建API Key。
+2. 将代码中第12行的 \<API Key\> 替换为你的API Key。如果使用其他ai还需要修改base_url和model，具体请参考平台文档。
+
+```bash
+client = OpenAI(api_key="<API Key>", base_url="https://api.hunyuan.cloud.tencent.com/v1")
+```
+
+2. 运行脚本，根据提示输入账户密码登录“我爱记单词”。若未跳转到登录页面，请检查是否开启了梯子或修改了DNS。
 3. 点击“开始考试”，程序会自动答题。
 4. 答题完成后，会在脚本所在目录生成一个 list.json 文件，存储题目及给出的答案。
 
