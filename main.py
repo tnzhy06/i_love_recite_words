@@ -8,7 +8,7 @@ from openai import OpenAI
 import json
 import random
 
-client = OpenAI(api_key="sk-A4rQzZcagS0G9c3Rc53bbwdejloGcfR6Xbpm5xpYvihWId0C", base_url="https://api.hunyuan.cloud.tencent.com/v1")
+client = OpenAI(api_key="<API Key>", base_url="https://api.hunyuan.cloud.tencent.com/v1")
 
 def get_answer(question, options):
 
