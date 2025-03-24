@@ -1,17 +1,24 @@
+'''
+@TnZHY
+这是一个用于HDU我爱记单词的答题脚本,此脚本仅供学习交流使用
+'''
+
 from playwright.sync_api import sync_playwright
 from openai import OpenAI
 import json
 
+client = OpenAI(api_key="<API Key>", base_url="https://api.hunyuan.cloud.tencent.com/v1")
+
 def get_answer(question, options):
-    client = OpenAI(api_key="<DeepSeek API Key>", base_url="https://api.deepseek.com")
+
     con = f"Question:{question}\nOptions:{options}"
     print(con)
     response = client.chat.completions.create(
-        model="deepseek-chat",
+        model="hunyuan-turbos-latest",
         messages=[
             {
                 "role": "system",
-                "content": 'user提供一个Question和4个Option，在4个Option中找出与Question相同意思相同的答案，若无意思相同的则选最相近的答案！注意每次应斟酌四个选项后再给出最佳答案。最终回答给出选项的大写字母并在其左右加上-,例如-A-'
+                "content": '帮助我回答问题，user提供一个Question和4个Option，在4个Option中找出与Question相同意思相同的答案，若无意思相同的则选最相近的答案！注意每次应斟酌四个选项后再给出最佳答案。最终回答不需要解释，直接给出正确选项的大写字母并在其左右加上-,例如-A-'
             },
             {
                 "role": "user",
@@ -30,7 +37,7 @@ def get_answer(question, options):
 # 定位并点击答案
 def select(page, answer):
     index_mapping = {"-A-": 1, "-B-": 2, "-C-": 3, "-D-": 4}
-    xpath = f"(//div[@class='van-cell van-cell--clickable'])[{index_mapping[answer]}]"
+    xpath = f"(//div[@class='van-radio__icon van-radio__icon--round'])[{index_mapping[answer]}]"
     button = page.locator(xpath)
     button.click()
 
@@ -58,7 +65,7 @@ def main():
         # 存储所有题目信息
         questions = []
 
-        page.wait_for_timeout(2000)
+        page.wait_for_timeout(1500)
 
         # 循环回答问题
         for i in range(100):
@@ -80,10 +87,18 @@ def main():
                 "answer": correct_answer
             })
 
-            select(page, correct_answer)
+            if "-A-" in correct_answer:
+                correct_answer="-A-"
+            elif "-B-" in correct_answer:
+                correct_answer = "-B-"
+            elif "-C-" in correct_answer:
+                correct_answer = "-C-"
+            elif "-D-" in correct_answer:
+                correct_answer = "-D-"
 
+            select(page, correct_answer)
             # 等待一段时间以模拟用户操作
-            page.wait_for_timeout(300)
+            page.wait_for_timeout(500)
 
         save_to_json(questions)
 

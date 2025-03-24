@@ -1,6 +1,237 @@
 [
     {
         "number": 1,
+        "question": "excursion .",
+        "options": [
+            "A. 酷刑 .",
+            "B. 借口 .",
+            "C. 远足 .",
+            "D. 垫子 ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 2,
+        "question": "姑父 .",
+        "options": [
+            "A. aunt .",
+            "B. uncle .",
+            "C. cousin .",
+            "D. kin ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 3,
+        "question": "留意的 .",
+        "options": [
+            "A. special .",
+            "B. attractive .",
+            "C. attentive .",
+            "D. abusive ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 4,
+        "question": "reward .",
+        "options": [
+            "A. 奖学金 .",
+            "B. 改写 .",
+            "C. 报酬 .",
+            "D. 效益 ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 5,
+        "question": "dry .",
+        "options": [
+            "A. 憔悴的 .",
+            "B. 飘荡的 .",
+            "C. 被动的 .",
+            "D. 干燥的 ."
+        ],
+        "answer": "-D-"
+    },
+    {
+        "number": 6,
+        "question": "coast .",
+        "options": [
+            "A. 诅咒 .",
+            "B. 滑行 .",
+            "C. 哄骗 .",
+            "D. 花费 ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 7,
+        "question": "post .",
+        "options": [
+            "A. 发行 .",
+            "B. 贴出 .",
+            "C. 延迟 .",
+            "D. 配送 ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 8,
+        "question": "总理 .",
+        "options": [
+            "A. premier .",
+            "B. president .",
+            "C. statesman .",
+            "D. governor ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 9,
+        "question": "assess .",
+        "options": [
+            "A. 坦白 .",
+            "B. 评估 .",
+            "C. 拥有 .",
+            "D. 超过 ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 10,
+        "question": "输出，出口 .",
+        "options": [
+            "A. access .",
+            "B. export .",
+            "C. entry .",
+            "D. import ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 11,
+        "question": "汽车旅馆 .",
+        "options": [
+            "A. medal .",
+            "B. mortal .",
+            "C. mental .",
+            "D. motel ."
+        ],
+        "answer": "-D-"
+    },
+    {
+        "number": 12,
+        "question": "饥饿的 .",
+        "options": [
+            "A. poor .",
+            "B. hungry .",
+            "C. needy .",
+            "D. bony ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 13,
+        "question": "在先的 .",
+        "options": [
+            "A. corresponding .",
+            "B. accordingly .",
+            "C. preceding .",
+            "D. exceedingly ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 14,
+        "question": "fault .",
+        "options": [
+            "A. 故障 .",
+            "B. 感觉 .",
+            "C. 全体教员 .",
+            "D. 四十 ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 15,
+        "question": "solution .",
+        "options": [
+            "A. 庄严 .",
+            "B. 酸液 .",
+            "C. 刺激物 .",
+            "D. 解决 ."
+        ],
+        "answer": "-D-"
+    },
+    {
+        "number": 16,
+        "question": "sock .",
+        "options": [
+            "A. 短袜 .",
+            "B. 肥皂 .",
+            "C. 苏打 .",
+            "D. 浸泡 ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 17,
+        "question": "细胞核 .",
+        "options": [
+            "A. core .",
+            "B. kernel .",
+            "C. pillar .",
+            "D. nucleus ."
+        ],
+        "answer": "-D-"
+    },
+    {
+        "number": 18,
+        "question": "sew .",
+        "options": [
+            "A. 下水道 .",
+            "B. 抽水机 .",
+            "C. 缝制 .",
+            "D. 锯 ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 19,
+        "question": "poisonous .",
+        "options": [
+            "A. 受污染的 .",
+            "B. 政治的 .",
+            "C. 有毒的 .",
+            "D. 打磨的 ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 20,
+        "question": "帽子(一般指有边的) .",
+        "options": [
+            "A. lid .",
+            "B. hat .",
+            "C. hut .",
+            "D. hot ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 21,
+        "question": "再者，此外 .",
+        "options": [
+            "A. except .",
+            "B. other .",
+            "C. beside .",
+            "D. moreover ."
+        ],
+        "answer": "-D-"
+    },
+    {
+        "number": 22,
         "question": "respectful .",
         "options": [
             "A. 恭敬的 .",
@@ -11,348 +242,524 @@
         "answer": "-A-"
     },
     {
-        "number": 2,
-        "question": "reason .",
-        "options": [
-            "A. 推理 .",
-            "B. 推动 .",
-            "C. 阻止 .",
-            "D. 影响 ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 3,
-        "question": "凸出 .",
-        "options": [
-            "A. subject .",
-            "B. reject .",
-            "C. project .",
-            "D. inject ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 4,
-        "question": "otherwise .",
-        "options": [
-            "A. 然而 .",
-            "B. 而且 .",
-            "C. 另外 .",
-            "D. 况且 ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 5,
-        "question": "重新开始 .",
-        "options": [
-            "A. renew .",
-            "B. remind .",
-            "C. recover .",
-            "D. recollect ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 6,
-        "question": "resort .",
-        "options": [
-            "A. 预定 .",
-            "B. 求助 .",
-            "C. 结果 .",
-            "D. 响应 ."
-        ],
-        "answer": "-B-"
-    },
-    {
-        "number": 7,
-        "question": "donkey .",
-        "options": [
-            "A. 甜甜圈 .",
-            "B. 盾 .",
-            "C. 电子狗 .",
-            "D. 驴 ."
-        ],
-        "answer": "-D-"
-    },
-    {
-        "number": 8,
-        "question": "晚餐 .",
-        "options": [
-            "A. supply .",
-            "B. superior .",
-            "C. supper .",
-            "D. support ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 9,
-        "question": "宗教 .",
-        "options": [
-            "A. religion .",
-            "B. region .",
-            "C. reflection .",
-            "D. relation ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 10,
-        "question": "跑步者 .",
-        "options": [
-            "A. runner .",
-            "B. reader .",
-            "C. ruler .",
-            "D. rider ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 11,
-        "question": "violent .",
-        "options": [
-            "A. 反叛的 .",
-            "B. 有力量的 .",
-            "C. 狂暴的 .",
-            "D. 有活力的 ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 12,
-        "question": "古怪的 .",
-        "options": [
-            "A. steer .",
-            "B. pioneer .",
-            "C. offensive .",
-            "D. queer ."
-        ],
-        "answer": "-D-"
-    },
-    {
-        "number": 13,
-        "question": "腐烂 .",
-        "options": [
-            "A. rotate .",
-            "B. rope .",
-            "C. rust .",
-            "D. rot ."
-        ],
-        "answer": "-D-"
-    },
-    {
-        "number": 14,
-        "question": "quicken .",
-        "options": [
-            "A. 停止 .",
-            "B. 提高 .",
-            "C. 加快 .",
-            "D. 延缓 ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 15,
-        "question": "偏僻的 .",
-        "options": [
-            "A. remote .",
-            "B. devote .",
-            "C. promote .",
-            "D. quote ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 16,
-        "question": "rehearsal .",
-        "options": [
-            "A. 重复 .",
-            "B. 朗诵 .",
-            "C. 排练 .",
-            "D. 听力 ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 17,
-        "question": "派遣 .",
-        "options": [
-            "A. send .",
-            "B. pretend .",
-            "C. recommend .",
-            "D. offend ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 18,
-        "question": "agony .",
-        "options": [
-            "A. 极度痛苦 .",
-            "B. 烦恼 .",
-            "C. 兴奋剂 .",
-            "D. 锣 ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 19,
-        "question": "使想起 .",
-        "options": [
-            "A. remember .",
-            "B. renew .",
-            "C. repent .",
-            "D. remind ."
-        ],
-        "answer": "-D-"
-    },
-    {
-        "number": 20,
-        "question": "能力 .",
-        "options": [
-            "A. influence .",
-            "B. efficiency .",
-            "C. effect .",
-            "D. ability ."
-        ],
-        "answer": "-D-"
-    },
-    {
-        "number": 21,
-        "question": "reduce .",
-        "options": [
-            "A. 挽回 .",
-            "B. 生产 .",
-            "C. 减少 .",
-            "D. 记录 ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 22,
-        "question": "inquiry .",
-        "options": [
-            "A. 调查 .",
-            "B. 获得 .",
-            "C. 要求 .",
-            "D. 习得 ."
-        ],
-        "answer": "-A-"
-    },
-    {
         "number": 23,
-        "question": "recognition .",
+        "question": "直到……为止 .",
         "options": [
-            "A. 介绍 .",
-            "B. 识别 .",
-            "C. 记录 .",
-            "D. 接收 ."
+            "A. yet .",
+            "B. till .",
+            "C. after .",
+            "D. still ."
         ],
         "answer": "-B-"
     },
     {
         "number": 24,
-        "question": "freeze .",
+        "question": "headline .",
         "options": [
-            "A. 结冻 .",
-            "B. 呼吸 .",
-            "C. 微风 .",
-            "D. 轻松应对 ."
+            "A. 横线 .",
+            "B. 车灯 .",
+            "C. 大字标题 .",
+            "D. 总部 ."
         ],
-        "answer": "-A-"
+        "answer": "-C-"
     },
     {
         "number": 25,
-        "question": "兔子 .",
+        "question": "音乐家 .",
         "options": [
-            "A. rabbit .",
-            "B. rat .",
-            "C. pork .",
-            "D. pigeon ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 26,
-        "question": "公道的 .",
-        "options": [
-            "A. fashionable .",
-            "B. unable .",
-            "C. enable .",
-            "D. reasonable ."
+            "A. magician .",
+            "B. politician .",
+            "C. technician .",
+            "D. musician ."
         ],
         "answer": "-D-"
     },
     {
-        "number": 27,
-        "question": "relation .",
+        "number": 26,
+        "question": "尝试 .",
         "options": [
-            "A. 批评 .",
-            "B. 相关性 .",
-            "C. 名声 .",
-            "D. 报答 ."
+            "A. attend .",
+            "B. stake .",
+            "C. attempt .",
+            "D. tempt ."
         ],
-        "answer": "-B-"
+        "answer": "-C-"
+    },
+    {
+        "number": 27,
+        "question": "炸弹 .",
+        "options": [
+            "A. strike .",
+            "B. crash .",
+            "C. bomb .",
+            "D. collapse ."
+        ],
+        "answer": "-C-"
     },
     {
         "number": 28,
-        "question": "ruler .",
+        "question": "凯旋 .",
         "options": [
-            "A. 使者 .",
-            "B. 统治者 .",
-            "C. 大臣 .",
-            "D. 贵族 ."
+            "A. success .",
+            "B. achievement .",
+            "C. honor .",
+            "D. triumph ."
+        ],
+        "answer": "-D-"
+    },
+    {
+        "number": 29,
+        "question": "海湾 .",
+        "options": [
+            "A. bog .",
+            "B. bay .",
+            "C. cape .",
+            "D. cabin ."
         ],
         "answer": "-B-"
     },
     {
-        "number": 29,
-        "question": "彻底的 .",
-        "options": [
-            "A. thorough .",
-            "B. thought .",
-            "C. through .",
-            "D. although ."
-        ],
-        "answer": "-A-"
-    },
-    {
         "number": 30,
-        "question": "resource .",
+        "question": "每年的 .",
         "options": [
-            "A. 求助 .",
-            "B. 谋略 .",
-            "C. 解决 .",
-            "D. 修复 ."
+            "A. quarterly .",
+            "B. yearly .",
+            "C. contemporary .",
+            "D. era ."
         ],
-        "answer": "-A-"
+        "answer": "-B-"
     },
     {
         "number": 31,
-        "question": "支援，加强 .",
+        "question": "嗅觉 .",
         "options": [
-            "A. reinforce .",
-            "B. force .",
-            "C. enforce .",
-            "D. forfeit ."
+            "A. sense .",
+            "B. hear .",
+            "C. taste .",
+            "D. nose ."
         ],
-        "answer": "-A-"
+        "answer": "-D-"
     },
     {
         "number": 32,
-        "question": "burn .",
+        "question": "rank .",
         "options": [
-            "A. 燃烧 .",
-            "B. 倾诉 .",
-            "C. 撞击 .",
-            "D. 倾倒 ."
+            "A. 行李架 .",
+            "B. 排名 .",
+            "C. 大农场 .",
+            "D. 咆哮 ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 33,
+        "question": "notebook .",
+        "options": [
+            "A. 备忘录 .",
+            "B. 相册 .",
+            "C. 日记本 .",
+            "D. 笔记本 ."
+        ],
+        "answer": "-D-"
+    },
+    {
+        "number": 34,
+        "question": "乘 .",
+        "options": [
+            "A. multiply .",
+            "B. multiple .",
+            "C. mug .",
+            "D. minus ."
         ],
         "answer": "-A-"
     },
     {
-        "number": 33,
+        "number": 35,
+        "question": "fireman .",
+        "options": [
+            "A. 裁员 .",
+            "B. 消防员 .",
+            "C. 农夫 .",
+            "D. 壁炉 ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 36,
+        "question": "破坏 .",
+        "options": [
+            "A. incident .",
+            "B. destruction .",
+            "C. collapse .",
+            "D. accident ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 37,
+        "question": "驳倒 .",
+        "options": [
+            "A. refuse .",
+            "B. refine .",
+            "C. refute .",
+            "D. refuge ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 38,
+        "question": "搅拌 .",
+        "options": [
+            "A. assemble .",
+            "B. stir .",
+            "C. melt .",
+            "D. weave ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 39,
+        "question": "自从 .",
+        "options": [
+            "A. until .",
+            "B. yet .",
+            "C. before .",
+            "D. since ."
+        ],
+        "answer": "-D-"
+    },
+    {
+        "number": 40,
+        "question": "doubtless .",
+        "options": [
+            "A. 无疑的 .",
+            "B. 双重的 .",
+            "C. 完全的 .",
+            "D. 可能的 ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 41,
+        "question": "inventor .",
+        "options": [
+            "A. 侵略者 .",
+            "B. 发明家 .",
+            "C. 矢量 .",
+            "D. 小贩 ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 42,
+        "question": "lip .",
+        "options": [
+            "A. 嘴唇 .",
+            "B. 膝盖 .",
+            "C. 眼睑 .",
+            "D. 盖子 ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 43,
+        "question": "显著的 .",
+        "options": [
+            "A. minor .",
+            "B. principal .",
+            "C. outstanding .",
+            "D. optional ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 44,
+        "question": "罚款单 .",
+        "options": [
+            "A. bill .",
+            "B. check .",
+            "C. ticket .",
+            "D. sheet ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 45,
+        "question": "顾客 .",
+        "options": [
+            "A. merchant .",
+            "B. customer .",
+            "C. trader .",
+            "D. seller ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 46,
+        "question": "fridge .",
+        "options": [
+            "A. 电冰箱 .",
+            "B. 山脉 .",
+            "C. 安排 .",
+            "D. 范围 ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 47,
+        "question": "运气 .",
+        "options": [
+            "A. luck .",
+            "B. duck .",
+            "C. prophecy .",
+            "D. sign ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 48,
+        "question": "decent .",
+        "options": [
+            "A. 锐减的 .",
+            "B. 关键的 .",
+            "C. 体面的 .",
+            "D. 后裔的 ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 49,
+        "question": "overall .",
+        "options": [
+            "A. 工装裤 .",
+            "B. 连体衣 .",
+            "C. 制服 .",
+            "D. 套装 ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 50,
+        "question": "receiver .",
+        "options": [
+            "A. 收受者 .",
+            "B. 启发者 .",
+            "C. 侍者 .",
+            "D. 发件人 ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 51,
+        "question": "trunk .",
+        "options": [
+            "A. 铁道 .",
+            "B. 卡车 .",
+            "C. 皮箱 .",
+            "D. 隧道 ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 52,
+        "question": "relationship .",
+        "options": [
+            "A. 发展 .",
+            "B. 保持 .",
+            "C. 关系 .",
+            "D. 欣喜 ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 53,
+        "question": "continue .",
+        "options": [
+            "A. 继续 .",
+            "B. 污染 .",
+            "C. 重聚 .",
+            "D. 团结 ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 54,
+        "question": "轮胎 .",
+        "options": [
+            "A. type .",
+            "B. tyre .",
+            "C. tuck .",
+            "D. tube ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 55,
+        "question": "迟的 .",
+        "options": [
+            "A. late .",
+            "B. past .",
+            "C. early .",
+            "D. dying ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 56,
+        "question": "投递 .",
+        "options": [
+            "A. lecture .",
+            "B. send .",
+            "C. deliver .",
+            "D. transmit ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 57,
+        "question": "旅程 .",
+        "options": [
+            "A. event .",
+            "B. journey .",
+            "C. schedule .",
+            "D. plan ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 58,
+        "question": "temperature .",
+        "options": [
+            "A. 气温 .",
+            "B. 温度计 .",
+            "C. 脾气 .",
+            "D. 暂时 ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 59,
+        "question": "utter .",
+        "options": [
+            "A. 假装 .",
+            "B. 呼喊 .",
+            "C. 打招呼 .",
+            "D. 作声 ."
+        ],
+        "answer": "-D-"
+    },
+    {
+        "number": 60,
+        "question": "consider .",
+        "options": [
+            "A. 主持人 .",
+            "B. 居住 .",
+            "C. 考虑 .",
+            "D. 安抚 ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 61,
+        "question": "尝试 .",
+        "options": [
+            "A. tribe .",
+            "B. trial .",
+            "C. trick .",
+            "D. trifle ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 62,
+        "question": "revolt .",
+        "options": [
+            "A. 创新 .",
+            "B. 改良 .",
+            "C. 旋转 .",
+            "D. 叛乱 ."
+        ],
+        "answer": "-D-"
+    },
+    {
+        "number": 63,
+        "question": "战役 .",
+        "options": [
+            "A. activity .",
+            "B. conflict .",
+            "C. campaign .",
+            "D. brawl ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 64,
+        "question": "演奏 .",
+        "options": [
+            "A. present .",
+            "B. show .",
+            "C. act .",
+            "D. play ."
+        ],
+        "answer": "-D-"
+    },
+    {
+        "number": 65,
+        "question": "somewhere .",
+        "options": [
+            "A. 在某处 .",
+            "B. 有时候 .",
+            "C. 有点 .",
+            "D. 以某种方式 ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 66,
+        "question": "mend .",
+        "options": [
+            "A. 融化 .",
+            "B. 测量 .",
+            "C. 遇到 .",
+            "D. 修理 ."
+        ],
+        "answer": "-D-"
+    },
+    {
+        "number": 67,
+        "question": "bother .",
+        "options": [
+            "A. 讨厌 .",
+            "B. 打扰 .",
+            "C. 窒息 .",
+            "D. 兄弟 ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 68,
+        "question": "spaceship .",
+        "options": [
+            "A. 航天飞船 .",
+            "B. 轮船 .",
+            "C. 军舰 .",
+            "D. 观光船 ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 69,
+        "question": "告诫 .",
+        "options": [
+            "A. worn .",
+            "B. warn .",
+            "C. wore .",
+            "D. warm ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 70,
         "question": "turkey .",
         "options": [
             "A. 火鸡肉 .",
@@ -363,535 +770,304 @@
         "answer": "-A-"
     },
     {
-        "number": 34,
-        "question": "使联系 .",
-        "options": [
-            "A. relate .",
-            "B. regulate .",
-            "C. remark .",
-            "D. reproach ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 35,
-        "question": "rival .",
-        "options": [
-            "A. 对手 .",
-            "B. 到达 .",
-            "C. 河岸 .",
-            "D. 固定 ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 36,
-        "question": "release .",
-        "options": [
-            "A. 传送 .",
-            "B. 排练 .",
-            "C. 放松 .",
-            "D. 释放 ."
-        ],
-        "answer": "-D-"
-    },
-    {
-        "number": 37,
-        "question": "劫掠 .",
-        "options": [
-            "A. robbery .",
-            "B. rotary .",
-            "C. misery .",
-            "D. mystery ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 38,
-        "question": "移除 .",
-        "options": [
-            "A. immigrant .",
-            "B. removal .",
-            "C. migration .",
-            "D. transition ."
-        ],
-        "answer": "-B-"
-    },
-    {
-        "number": 39,
-        "question": "爪 .",
-        "options": [
-            "A. hoof .",
-            "B. claw .",
-            "C. heel .",
-            "D. nail ."
-        ],
-        "answer": "-B-"
-    },
-    {
-        "number": 40,
-        "question": "关系 .",
-        "options": [
-            "A. relation .",
-            "B. calculation .",
-            "C. installation .",
-            "D. congratulation ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 41,
-        "question": "revenge .",
-        "options": [
-            "A. 平均 .",
-            "B. 翻转 .",
-            "C. 揭示 .",
-            "D. 报复 ."
-        ],
-        "answer": "-D-"
-    },
-    {
-        "number": 42,
-        "question": "信赖 .",
-        "options": [
-            "A. radioactivity .",
-            "B. appliance .",
-            "C. reliance .",
-            "D. remarkable ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 43,
-        "question": "rob .",
-        "options": [
-            "A. 抢劫 .",
-            "B. 嘲笑 .",
-            "C. 操纵 .",
-            "D. 摆脱 ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 44,
-        "question": "choke .",
-        "options": [
-            "A. 轻声笑 .",
-            "B. 用粉笔写 .",
-            "C. 窒息 .",
-            "D. 丢弃 ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 45,
-        "question": "方面，旁边，侧面 .",
-        "options": [
-            "A. situation .",
-            "B. side .",
-            "C. location .",
-            "D. spot ."
-        ],
-        "answer": "-B-"
-    },
-    {
-        "number": 46,
-        "question": "recite .",
-        "options": [
-            "A. 背诵 .",
-            "B. 引用 .",
-            "C. 接受 .",
-            "D. 记录 ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 47,
-        "question": "共和党的 .",
-        "options": [
-            "A. republican .",
-            "B. democratic .",
-            "C. communist .",
-            "D. party ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 48,
-        "question": "强盗 .",
-        "options": [
-            "A. robber .",
-            "B. resistant .",
-            "C. researcher .",
-            "D. reporter ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 49,
-        "question": "rate .",
-        "options": [
-            "A. 限制 .",
-            "B. 估价 .",
-            "C. 延展 .",
-            "D. 讽刺 ."
-        ],
-        "answer": "-B-"
-    },
-    {
-        "number": 50,
-        "question": "raise .",
-        "options": [
-            "A. 延伸 .",
-            "B. 下降 .",
-            "C. 升起 .",
-            "D. 繁殖 ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 51,
-        "question": "银器 .",
-        "options": [
-            "A. gold .",
-            "B. steel .",
-            "C. silver .",
-            "D. bronze ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 52,
-        "question": "regular .",
-        "options": [
-            "A. 无序的 .",
-            "B. 绝对的 .",
-            "C. 规则的 .",
-            "D. 有关的 ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 53,
-        "question": "disaster .",
-        "options": [
-            "A. 直径 .",
-            "B. 失望 .",
-            "C. 灾难 .",
-            "D. 反抗者 ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 54,
-        "question": "rough .",
-        "options": [
-            "A. 痛苦的 .",
-            "B. 舒适的 .",
-            "C. 粗糙的 .",
-            "D. 喜悦的 ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 55,
-        "question": "receive .",
-        "options": [
-            "A. 预留 .",
-            "B. 回收 .",
-            "C. 保存 .",
-            "D. 接到 ."
-        ],
-        "answer": "-D-"
-    },
-    {
-        "number": 56,
-        "question": "取代 .",
-        "options": [
-            "A. replace .",
-            "B. embrace .",
-            "C. trace .",
-            "D. furnace ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 57,
-        "question": "title .",
-        "options": [
-            "A. 尊称 .",
-            "B. 头衔 .",
-            "C. 渺小 .",
-            "D. 窃笑 ."
-        ],
-        "answer": "-B-"
-    },
-    {
-        "number": 58,
-        "question": "recently .",
-        "options": [
-            "A. 之后 .",
-            "B. 先前 .",
-            "C. 最近 .",
-            "D. 通常 ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 59,
-        "question": "恢复，重新开始 .",
-        "options": [
-            "A. presume .",
-            "B. assume .",
-            "C. consume .",
-            "D. resume ."
-        ],
-        "answer": "-D-"
-    },
-    {
-        "number": 60,
-        "question": "radioactive .",
-        "options": [
-            "A. 合理的 .",
-            "B. 根本的 .",
-            "C. 放射性的 .",
-            "D. 随机的 ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 61,
-        "question": "疲倦的 .",
-        "options": [
-            "A. weather .",
-            "B. weary .",
-            "C. wealthy .",
-            "D. weapon ."
-        ],
-        "answer": "-B-"
-    },
-    {
-        "number": 62,
-        "question": "restrain .",
-        "options": [
-            "A. 改组 .",
-            "B. 保持 .",
-            "C. 重述 .",
-            "D. 限制 ."
-        ],
-        "answer": "-D-"
-    },
-    {
-        "number": 63,
-        "question": "河 .",
-        "options": [
-            "A. river .",
-            "B. land .",
-            "C. ocean .",
-            "D. channel ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 64,
-        "question": "recall .",
-        "options": [
-            "A. 打电话 .",
-            "B. 回想 .",
-            "C. 思考 .",
-            "D. 回信息 ."
-        ],
-        "answer": "-B-"
-    },
-    {
-        "number": 65,
-        "question": "报价单 .",
-        "options": [
-            "A. quiz .",
-            "B. inquiry .",
-            "C. insurance .",
-            "D. quotation ."
-        ],
-        "answer": "-D-"
-    },
-    {
-        "number": 66,
-        "question": "render .",
-        "options": [
-            "A. 给予 .",
-            "B. 租借 .",
-            "C. 更新 .",
-            "D. 放弃 ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 67,
-        "question": "粗鲁的，无理的 .",
-        "options": [
-            "A. attitude .",
-            "B. rude .",
-            "C. gratitude .",
-            "D. exclude ."
-        ],
-        "answer": "-B-"
-    },
-    {
-        "number": 68,
-        "question": "relevant .",
-        "options": [
-            "A. 相关的 .",
-            "B. 适合的 .",
-            "C. 肯定的 .",
-            "D. 相对的 ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 69,
-        "question": "放慢 .",
-        "options": [
-            "A. tighten .",
-            "B. slow .",
-            "C. fasten .",
-            "D. loosen ."
-        ],
-        "answer": "-B-"
-    },
-    {
-        "number": 70,
-        "question": "旗帜 .",
-        "options": [
-            "A. slogan .",
-            "B. poster .",
-            "C. banner .",
-            "D. notice ."
-        ],
-        "answer": "-C-"
-    },
-    {
         "number": 71,
-        "question": "rural .",
+        "question": "belt .",
         "options": [
-            "A. 乡村的 .",
-            "B. 皇家的 .",
-            "C. 常规的 .",
-            "D. 边缘的 ."
+            "A. 感觉 .",
+            "B. 投掷 .",
+            "C. 飞奔 .",
+            "D. 溶解 ."
         ],
-        "answer": "-A-"
+        "answer": "-B-"
     },
     {
         "number": 72,
-        "question": "sack .",
+        "question": "secondary .",
         "options": [
-            "A. 蛇 .",
-            "B. 麻袋 .",
-            "C. 小吃 .",
-            "D. 理由 ."
+            "A. 高级的 .",
+            "B. 低级的 .",
+            "C. 中介的 .",
+            "D. 中级的 ."
         ],
         "answer": "-B-"
     },
     {
         "number": 73,
-        "question": "长袍 .",
+        "question": "entire .",
         "options": [
-            "A. overall .",
-            "B. robe .",
-            "C. cover .",
-            "D. pants ."
+            "A. 热心的 .",
+            "B. 疲劳的 .",
+            "C. 整个的 .",
+            "D. 退休的 ."
         ],
-        "answer": "-B-"
+        "answer": "-C-"
     },
     {
         "number": 74,
-        "question": "路线 .",
+        "question": "责备 .",
         "options": [
-            "A. street .",
-            "B. avenue .",
-            "C. route .",
-            "D. lane ."
+            "A. approach .",
+            "B. coach .",
+            "C. reproach .",
+            "D. attach ."
         ],
         "answer": "-C-"
     },
     {
         "number": 75,
-        "question": "rocket .",
+        "question": "规定 .",
         "options": [
-            "A. 行李架 .",
-            "B. 摇滚 .",
-            "C. 火箭 .",
-            "D. 球拍 ."
+            "A. describe .",
+            "B. prescribe .",
+            "C. transcribe .",
+            "D. scribe ."
         ],
-        "answer": "-C-"
+        "answer": "-B-"
     },
     {
         "number": 76,
-        "question": "忍受 .",
+        "question": "残骸 .",
         "options": [
-            "A. standpoint .",
-            "B. misunderstand .",
-            "C. withstand .",
-            "D. outstanding ."
+            "A. rag .",
+            "B. fragment .",
+            "C. wreck .",
+            "D. clip ."
         ],
         "answer": "-C-"
     },
     {
         "number": 77,
-        "question": "开花 .",
+        "question": "struggle .",
         "options": [
-            "A. grow .",
-            "B. bear .",
-            "C. bloom .",
-            "D. sprout ."
+            "A. 争吵 .",
+            "B. 挣扎 .",
+            "C. 绊倒 .",
+            "D. 进步 ."
         ],
-        "answer": "-C-"
+        "answer": "-B-"
     },
     {
         "number": 78,
-        "question": "背叛 .",
+        "question": "arithmetic .",
         "options": [
-            "A. bear .",
-            "B. behave .",
-            "C. betray .",
-            "D. belie ."
+            "A. 算术 .",
+            "B. 贵族 .",
+            "C. 金属 .",
+            "D. 主题 ."
         ],
-        "answer": "-C-"
+        "answer": "-A-"
     },
     {
         "number": 79,
-        "question": "recognize .",
+        "question": "（使）风化 .",
         "options": [
-            "A. 背诵 .",
-            "B. 记录 .",
-            "C. 意识到 .",
-            "D. 恢复 ."
+            "A. wither .",
+            "B. whether .",
+            "C. altogether .",
+            "D. weather ."
         ],
-        "answer": "-C-"
+        "answer": "-D-"
     },
     {
         "number": 80,
-        "question": "reason .",
+        "question": "soap .",
         "options": [
-            "A. 结合 .",
-            "B. 接收 .",
-            "C. 推理 .",
-            "D. 反馈 ."
+            "A. 湿透 .",
+            "B. 肥皂 .",
+            "C. 袜子 .",
+            "D. 苏打 ."
         ],
-        "answer": "-C-"
+        "answer": "-B-"
     },
     {
         "number": 81,
-        "question": "芦苇 .",
+        "question": "拿来 .",
         "options": [
-            "A. reap .",
-            "B. reel .",
-            "C. reed .",
-            "D. rake ."
+            "A. fetch .",
+            "B. achieve .",
+            "C. reach .",
+            "D. arrive ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 82,
+        "question": "crew .",
+        "options": [
+            "A. 报酬 .",
+            "B. 全体船员 .",
+            "C. 乌鸦 .",
+            "D. 收成 ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 83,
+        "question": "识别 .",
+        "options": [
+            "A. familiarity .",
+            "B. observation .",
+            "C. recognition .",
+            "D. realization ."
         ],
         "answer": "-C-"
     },
     {
-        "number": 82,
+        "number": 84,
+        "question": "海绵 .",
+        "options": [
+            "A. sponsor .",
+            "B. sponge .",
+            "C. spoil .",
+            "D. split ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 85,
+        "question": "超过 .",
+        "options": [
+            "A. below .",
+            "B. than .",
+            "C. over .",
+            "D. behind ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 86,
+        "question": "lid .",
+        "options": [
+            "A. 小伙子 .",
+            "B. 嘴唇 .",
+            "C. 文学 .",
+            "D. 盖子 ."
+        ],
+        "answer": "-D-"
+    },
+    {
+        "number": 87,
+        "question": "海峡 .",
+        "options": [
+            "A. channel .",
+            "B. tunnel .",
+            "C. bay .",
+            "D. cable ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 88,
+        "question": "colonel .",
+        "options": [
+            "A. 陆军上校 .",
+            "B. 少将 .",
+            "C. 少尉 .",
+            "D. 中尉 ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 89,
+        "question": "wish .",
+        "options": [
+            "A. 愿意 .",
+            "B. 祈祷 .",
+            "C. 要求 .",
+            "D. 希望 ."
+        ],
+        "answer": "-D-"
+    },
+    {
+        "number": 90,
+        "question": "公司 .",
+        "options": [
+            "A. construction .",
+            "B. community .",
+            "C. company .",
+            "D. combination ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 91,
+        "question": "龙 .",
+        "options": [
+            "A. donkey .",
+            "B. dragon .",
+            "C. deer .",
+            "D. mare ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 92,
+        "question": "uncertain .",
+        "options": [
+            "A. 无常的 .",
+            "B. 不平坦的 .",
+            "C. 含蓄的 .",
+            "D. 一致的 ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 93,
+        "question": "会谈 .",
+        "options": [
+            "A. tall .",
+            "B. talent .",
+            "C. talk .",
+            "D. tale ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 94,
+        "question": "check .",
+        "options": [
+            "A. 雏鸟 .",
+            "B. 脸颊 .",
+            "C. 核对 .",
+            "D. 时髦 ."
+        ],
+        "answer": "-C-"
+    },
+    {
+        "number": 95,
+        "question": "specially .",
+        "options": [
+            "A. 明确地 .",
+            "B. 专门地 .",
+            "C. 快速地 .",
+            "D. 规范地 ."
+        ],
+        "answer": "-B-"
+    },
+    {
+        "number": 96,
+        "question": "framework .",
+        "options": [
+            "A. 结构 .",
+            "B. 网状物 .",
+            "C. 建筑物 .",
+            "D. 断裂 ."
+        ],
+        "answer": "-A-"
+    },
+    {
+        "number": 97,
+        "question": "tear .",
+        "options": [
+            "A. 恐惧 .",
+            "B. 痛心 .",
+            "C. 睫毛 .",
+            "D. 眼泪 ."
+        ],
+        "answer": "-D-"
+    },
+    {
+        "number": 98,
         "question": "萎缩 .",
         "options": [
             "A. shrink .",
@@ -902,200 +1078,24 @@
         "answer": "-A-"
     },
     {
-        "number": 83,
-        "question": "放射 .",
-        "options": [
-            "A. pronunciation .",
-            "B. radiation .",
-            "C. variation .",
-            "D. aviation ."
-        ],
-        "answer": "-B-"
-    },
-    {
-        "number": 84,
-        "question": "革命 .",
-        "options": [
-            "A. pollution .",
-            "B. resolution .",
-            "C. revolution .",
-            "D. evolution ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 85,
-        "question": "调整 .",
-        "options": [
-            "A. regulate .",
-            "B. register .",
-            "C. regret .",
-            "D. reign ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 86,
-        "question": "require .",
-        "options": [
-            "A. 需要 .",
-            "B. 报答 .",
-            "C. 表示 .",
-            "D. 反对 ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 87,
-        "question": "shadow .",
-        "options": [
-            "A. 阴影 .",
-            "B. 荫凉处 .",
-            "C. 光线 .",
-            "D. 浅处 ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 88,
-        "question": "尽责的 .",
-        "options": [
-            "A. responsible .",
-            "B. obedient .",
-            "C. feasible .",
-            "D. duty ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 89,
-        "question": "launch .",
-        "options": [
-            "A. 哀痛 .",
-            "B. 吃午饭 .",
-            "C. 发射 .",
-            "D. 重击 ."
-        ],
-        "answer": "-C-"
-    },
-    {
-        "number": 90,
-        "question": "quiz .",
-        "options": [
-            "A. 测验 .",
-            "B. 被子 .",
-            "C. 作业 .",
-            "D. 枕套 ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 91,
-        "question": "balance .",
-        "options": [
-            "A. 沉默 .",
-            "B. 平衡 .",
-            "C. 立场 .",
-            "D. 长矛 ."
-        ],
-        "answer": "-B-"
-    },
-    {
-        "number": 92,
-        "question": "range .",
-        "options": [
-            "A. 席卷 .",
-            "B. 排列 .",
-            "C. 发怒 .",
-            "D. 责骂 ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 93,
-        "question": "风险 .",
-        "options": [
-            "A. risk .",
-            "B. rise .",
-            "C. rage .",
-            "D. ripe ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 94,
-        "question": "rank .",
-        "options": [
-            "A. 行李架 .",
-            "B. 大农场 .",
-            "C. 愤怒 .",
-            "D. 级别 ."
-        ],
-        "answer": "-D-"
-    },
-    {
-        "number": 95,
-        "question": "quickly .",
-        "options": [
-            "A. 缓慢地 .",
-            "B. 兴高采烈地 .",
-            "C. 沉默地 .",
-            "D. 迅速地 ."
-        ],
-        "answer": "-D-"
-    },
-    {
-        "number": 96,
-        "question": "决心 .",
-        "options": [
-            "A. resolution .",
-            "B. revolution .",
-            "C. resistance .",
-            "D. restriction ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 97,
-        "question": "重述 .",
-        "options": [
-            "A. repeat .",
-            "B. state .",
-            "C. announce .",
-            "D. declare ."
-        ],
-        "answer": "-A-"
-    },
-    {
-        "number": 98,
-        "question": "收件人 .",
-        "options": [
-            "A. receiver .",
-            "B. observer .",
-            "C. regulator .",
-            "D. reception ."
-        ],
-        "answer": "-A-"
-    },
-    {
         "number": 99,
-        "question": "注册 .",
+        "question": "搅拌 .",
         "options": [
-            "A. disaster .",
-            "B. register .",
-            "C. plaster .",
-            "D. minister ."
+            "A. assemble .",
+            "B. stir .",
+            "C. melt .",
+            "D. weave ."
         ],
         "answer": "-B-"
     },
     {
         "number": 100,
-        "question": "戒指 .",
+        "question": "褶层 .",
         "options": [
-            "A. necklace .",
-            "B. decoration .",
-            "C. ring .",
-            "D. accessory ."
+            "A. trace .",
+            "B. trail .",
+            "C. fold .",
+            "D. vestige ."
         ],
         "answer": "-C-"
     }

@@ -7,7 +7,7 @@
 ---
 
 ## 项目介绍
-本项目基于 Playwright和deepseek，实现题目爬取和作答和浏览器的自动控制。
+本项目基于 Playwright和OpenAI SDK，实现题目爬取和作答和浏览器的自动控制。
 
 ---
 
@@ -24,7 +24,7 @@ playwright install
 ---
 
 ## 使用方法
-1. 进入 https://www.deepseek.com 注册一个账号，获取 api_key 并将代码中 \<DeepSeek API Key\> 替换为你的 Key。
+1. 使用支持OpenAI SDK的ai平台注册一个账号，我使用的是腾讯混元https://console.cloud.tencent.com/hunyuan/，获取 api_key 并将代码中第十行的 \<API Key\> 替换为你的 Key。
 2. 运行脚本，根据提示输入账户密码登录“我爱记单词”。若未跳转到登录页面，请检查是否开启了梯子或修改了 DNS。
 3. 点击“开始考试”，程序会自动答题。
 4. 答题完成后，会在脚本所在目录生成一个 list.json 文件，存储题目及给出的答案。
