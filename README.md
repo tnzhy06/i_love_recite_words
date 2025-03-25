@@ -1,5 +1,7 @@
 # 我爱记单词 Ver2.1
 
+---
+
 ## 声明
 **此脚本仅为个人学习编程使用，无意实现作弊目的！**
 **使用本脚本产生的一切后果自负！**
@@ -16,9 +18,15 @@
 ```bash
 pip install openai
 pip install playwright
-playwright install
+playwright install chromium
 ```
-如果安装出现错误可以改用国内镜像源安装，具体方法自行搜索。
+如果安装出现错误可以改用国内镜像源安装，即在原命令后面加上 【-i 镜像源地址】，下面给出的清华大学镜像源。  
+执行第三条命令如果安装速度很慢请使用科学上网或参考这篇文章换用国内镜像源。  
+https://blog.csdn.net/Return_Li/article/details/136056785
+```bash
+pip install openai -i https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install playwright -i https://pypi.tuna.tsinghua.edu.cn/simple/
+```
 
 ---
 
