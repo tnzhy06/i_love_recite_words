@@ -14,7 +14,7 @@
 ---
 
 ## 环境要求
-* Python 3.x
+* Python 3.7+
 * openai库
 * playwright库
 
