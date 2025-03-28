@@ -1,5 +1,6 @@
 # 我爱记单词 Ver2.1
-
+博客链接：  
+https://tnzhy.top/2025/03/24/pythonjiaobenwobuaijidanciver-21/
 ---
 
 ## 声明
