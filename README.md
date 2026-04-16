@@ -1,6 +1,6 @@
+# 本仓库已永久停止维护！！！
+
 # 我爱记单词 Ver2.1
-博客链接：  
-https://tnzhy.top/2025/03/24/pythonjiaobenwobuaijidanciver-21/
 ---
 
 ## 声明
@@ -28,9 +28,7 @@ pip install openai
 pip install playwright
 playwright install chromium
 ```
-如果安装出现错误可以改用国内镜像源安装，即在原命令后面加上 【-i 镜像源地址】，下面给出的清华大学镜像源。  
-执行第三条命令如果安装速度很慢请使用科学上网或参考这篇文章换用国内镜像源。  
-https://blog.csdn.net/Return_Li/article/details/136056785
+如果安装出现错误可以改用国内镜像源安装，
 ```bash
 pip install openai -i https://pypi.tuna.tsinghua.edu.cn/simple/
 pip install playwright -i https://pypi.tuna.tsinghua.edu.cn/simple/
@@ -39,7 +37,7 @@ pip install playwright -i https://pypi.tuna.tsinghua.edu.cn/simple/
 ---
 
 ## 使用方法
-1. 使用兼容OpenAI SDK的ai平台，我使用的是腾讯混元 https://console.cloud.tencent.com/hunyuan/ 。注册一个账号，选择【使用OpenAI SDK方式接入】，创建API Key。
+1. 使用兼容OpenAI SDK的ai平台，例如腾讯混元 https://console.cloud.tencent.com/hunyuan/ 。注册一个账号，选择【使用OpenAI SDK方式接入】，创建API Key。
 2. 将代码中第12行的 \<API Key\> 替换为你的API Key。如果使用其他ai还需要修改base_url和model，具体请参考平台文档。
 
 ```bash
